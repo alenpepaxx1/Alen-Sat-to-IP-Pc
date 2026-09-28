@@ -1,0 +1,548 @@
+Language	Gjuha	Sprache
+Live TV	TV drejtpërdrejt	Live-TV
+Channel manager	Menaxhimi i kanaleve	Senderverwaltung
+Programme guide	Guida e programeve	Programmführer
+Remote control	Telekomanda	Fernbedienung
+Timers	Programimet	Timer
+SatFinder	Gjetësi i satelitit	Satellitensuche
+Media & DLNA	Media dhe DLNA	Medien & DLNA
+Device integrations	Integrimet e pajisjeve	Geräteintegration
+Receiver settings	Cilësimet e dekoderit	Receiver-Einstellungen
+PERSONAL TV WORKSPACE	HAPËSIRA PERSONALE TV	PERSÖNLICHER TV-BEREICH
+Workspace	Hapësira e punës	Arbeitsbereich
+/ Your local TV workspace	/ Hapësira jote lokale TV	/ Dein lokaler TV-Bereich
+Alen STB · Receiver control	Alen STB · Kontrolli i dekoderit	Alen STB · Receiver-Steuerung
+Main navigation	Navigimi kryesor	Hauptnavigation
+Connection settings	Cilësimet e lidhjes	Verbindungseinstellungen
+Connection settings →	Cilësimet e lidhjes →	Verbindungseinstellungen →
+Connect a receiver	Lidh një dekoder	Receiver verbinden
+Receiver offline	Dekoderi është jashtë linje	Receiver offline
+Receiver connected	Dekoderi është lidhur	Receiver verbunden
+Receiver connected.	Dekoderi u lidh.	Receiver verbunden.
+No receiver	Asnjë dekoder	Kein Receiver
+Set up your local connection	Konfiguro lidhjen lokale	Lokale Verbindung einrichten
+Device protocol connection	Lidhje me protokollin e pajisjes	Verbindung über Geräteprotokoll
+Bridge connected · connect receiver	Bridge-i u lidh · lidh dekoderin	Bridge verbunden · Receiver verbinden
+LOCAL RECEIVER	DEKODER LOKAL	LOKALER RECEIVER
+NO DEVICE DATA	ASNJË E DHËNË NGA PAJISJA	KEINE GERÄTEDATEN
+No receiver data available. Connect your device to begin.	Nuk ka të dhëna nga dekoderi. Lidh pajisjen për të filluar.	Keine Receiver-Daten verfügbar. Verbinde zuerst dein Gerät.
+Disconnect →	Shkëput →	Trennen →
+Receiver not connected	Dekoderi nuk është lidhur	Receiver nicht verbunden
+Connect a verified receiver adapter to use this function.	Lidh një adapter të verifikuar të dekoderit për këtë funksion.	Verbinde einen geprüften Receiver-Adapter für diese Funktion.
+Function unavailable	Funksioni nuk është i disponueshëm	Funktion nicht verfügbar
+Wait for the current operation to finish.	Prit derisa të përfundojë veprimi aktual.	Warte, bis der aktuelle Vorgang abgeschlossen ist.
+Close dialog	Mbyll dritaren	Dialog schließen
+Your receiver. Your live channels.	Dekoderi yt. Kanalet e tua drejtpërdrejt.	Dein Receiver. Deine Live-Sender.
+RECEIVER CONNECTED	DEKODERI ËSHTË LIDHUR	RECEIVER VERBUNDEN
+NOT CONNECTED	I PALIDHUR	NICHT VERBUNDEN
+LOCAL NETWORK	RRJETI LOKAL	LOKALES NETZWERK
+SELECTED CHANNEL	KANALI I ZGJEDHUR	AUSGEWÄHLTER SENDER
+CONNECT YOUR DEVICE	LIDH PAJISJEN TËNDE	GERÄT VERBINDEN
+Your TV starts here	TV-ja jote fillon këtu	Dein Fernsehen beginnt hier
+Start a stream provided by your receiver.	Nis një transmetim nga dekoderi yt.	Starte einen Stream von deinem Receiver.
+No channels or streams are available until you connect.	Kanalet dhe transmetimet shfaqen pasi të lidhesh.	Sender und Streams sind erst nach dem Verbinden verfügbar.
+Watch channel	Shiko kanalin	Sender ansehen
+Set up connection	Konfiguro lidhjen	Verbindung einrichten
+Programme unavailable	Programi nuk është i disponueshëm	Programm nicht verfügbar
+Open remote	Hap telekomandën	Fernbedienung öffnen
+Load receiver EPG	Ngarko EPG-në e dekoderit	Receiver-EPG laden
+Requires receiver EPG support	Kërkon mbështetje EPG nga dekoderi	EPG-Unterstützung des Receivers erforderlich
+Satellite signal	Sinjali satelitor	Satellitensignal
+Read live measurements	Lexo matjet në kohë reale	Aktuelle Messwerte abrufen
+No measurements available	Nuk ka matje të disponueshme	Keine Messwerte verfügbar
+BROWSE & PLAY	SHFLETO DHE LUAJ	DURCHSUCHEN & ABSPIELEN
+Channels	Kanalet	Sender
+Search channels	Kërko kanale	Sender suchen
+Find a channel…	Gjej një kanal…	Sender suchen…
+All	Të gjitha	Alle
+Favorites	Të preferuarat	Favoriten
+Sports	Sport	Sport
+News	Lajme	Nachrichten
+Receiver channel list	Lista e kanaleve të dekoderit	Senderliste des Receivers
+Refresh	Rifresko	Aktualisieren
+Toggle favorite	Shto ose hiq nga të preferuarat	Favoritenstatus umschalten
+No channels found	Nuk u gjetën kanale	Keine Sender gefunden
+No channels found.	Nuk u gjetën kanale.	Keine Sender gefunden.
+No channels loaded	Nuk janë ngarkuar kanale	Keine Sender geladen
+Refresh the list or change your filter.	Rifresko listën ose ndrysho filtrin.	Aktualisiere die Liste oder ändere den Filter.
+Your receiver’s channels will appear after connection.	Kanalet e dekoderit do të shfaqen pas lidhjes.	Die Sender deines Receivers erscheinen nach dem Verbinden.
+Organize channels on your receiver.	Organizo kanalet në dekoderin tënd.	Verwalte die Sender auf deinem Receiver.
+Changes require receiver acknowledgement.	Ndryshimet kërkojnë konfirmim nga dekoderi.	Änderungen benötigen eine Bestätigung des Receivers.
+Sort A–Z	Rendit A–Z	A–Z sortieren
+Search channel manager	Kërko në menaxhimin e kanaleve	Senderverwaltung durchsuchen
+Search channels…	Kërko kanale…	Sender suchen…
+CHANNEL	KANALI	SENDER
+FAVORITE	I PREFERUAR	FAVORIT
+LOCK	BLLOKIMI	SPERRE
+EDIT / MOVE / DELETE	NDRYSHO / ZHVENDOS / FSHI	BEARBEITEN / VERSCHIEBEN / LÖSCHEN
+Toggle channel lock	Blloko ose zhblloko kanalin	Sendersperre umschalten
+Rename	Riemërto	Umbenennen
+Move up	Lëviz lart	Nach oben
+Move down	Lëviz poshtë	Nach unten
+Delete	Fshi	Löschen
+Programmes reported by your receiver.	Programet e raportuara nga dekoderi yt.	Programmdaten von deinem Receiver.
+Load EPG	Ngarko EPG-në	EPG laden
+Load the programme guide	Ngarko guidën e programeve	Programmführer laden
+Request the current EPG from your receiver.	Kërko EPG-në aktuale nga dekoderi yt.	Rufe das aktuelle EPG deines Receivers ab.
+Schedules stored and executed by your receiver.	Programime që ruhen dhe kryhen nga dekoderi yt.	Zeitpläne, die dein Receiver speichert und ausführt.
+Add timer	Shto programim	Timer hinzufügen
+PROGRAMME / CHANNEL	PROGRAMI / KANALI	PROGRAMM / SENDER
+START	FILLIMI	START
+TYPE	LLOJI	TYP
+ACTIONS	VEPRIMET	AKTIONEN
+Unavailable channel	Kanal i padisponueshëm	Sender nicht verfügbar
+Edit timer	Ndrysho programimin	Timer bearbeiten
+Delete timer	Fshi programimin	Timer löschen
+No receiver timers	Dekoderi nuk ka programime	Keine Receiver-Timer
+Add a timer to your receiver.	Shto një programim në dekoder.	Füge deinem Receiver einen Timer hinzu.
+Signal measurements reported by your receiver.	Matjet e sinjalit të raportuara nga dekoderi yt.	Signalwerte von deinem Receiver.
+Signal monitor	Monitorimi i sinjalit	Signalmonitor
+WAITING	NË PRITJE	WARTEN
+strength	fuqia	Signalstärke
+quality	cilësia	Signalqualität
+No measurement received.	Nuk është marrë asnjë matje.	Noch kein Messwert empfangen.
+Alignment assistant	Asistenti i drejtimit	Ausrichtungsassistent
+The audio guide uses fresh receiver SNR readings. Missing or stale data stops the sound.	Udhëzuesi zanor përdor matjet e fundit SNR. Kur të dhënat mungojnë ose vjetrohen, tingulli ndalet.	Die akustische Hilfe nutzt aktuelle SNR-Werte. Fehlende oder veraltete Daten stoppen den Ton.
+Read live signal	Lexo sinjalin në kohë reale	Aktuelles Signal abrufen
+Enable audio guide	Aktivizo udhëzuesin zanor	Akustische Hilfe aktivieren
+Stop audio guide	Ndalo udhëzuesin zanor	Akustische Hilfe stoppen
+Signal percentages are displayed as reported. No dB-to-percentage conversion is applied.	Përqindjet shfaqen siç raportohen. Nuk bëhet konvertim nga dB në përqindje.	Signalprozente werden wie gemeldet angezeigt. Keine Umrechnung von dB in Prozent.
+Only supported receiver functions are available.	Ofrohen vetëm funksionet që mbështet dekoderi.	Nur unterstützte Receiver-Funktionen sind verfügbar.
+Preferences	Preferencat	Einstellungen
+Sleep timer	Fikja e programuar	Ausschalttimer
+Off	Joaktiv	Aus
+15 minutes	15 minuta	15 Minuten
+30 minutes	30 minuta	30 Minuten
+1 hour	1 orë	1 Stunde
+2 hours	2 orë	2 Stunden
+Parental control	Kontrolli prindëror	Kindersicherung
+Screen lock	Bllokimi i ekranit	Bildschirmsperre
+Save to receiver	Ruaj në dekoder	Auf Receiver speichern
+Change PIN	Ndrysho PIN-in	PIN ändern
+Power on	Ndiz	Einschalten
+Standby	Në pritje	Standby
+Factory reset	Rikthe cilësimet e fabrikës	Werkseinstellungen
+Connection & availability	Lidhja dhe disponueshmëria	Verbindung & Verfügbarkeit
+Receiver	Dekoderi	Receiver
+Bridge	Bridge-i	Bridge
+Not connected	I palidhur	Nicht verbunden
+Connected	I lidhur	Verbunden
+Protocol	Protokolli	Protokoll
+Unverified	I paverifikuar	Ungeprüft
+Incoming call notifications	Njoftimet e telefonatave hyrëse	Benachrichtigungen bei eingehenden Anrufen
+RTSP / SAT>IP video conversion	Konvertimi i videos RTSP / SAT>IP	RTSP-/SAT>IP-Videokonvertierung
+iPhone companion · open Device integrations	Companion për iPhone · hap Integrimet e pajisjeve	iPhone-Begleit-App · Geräteintegration öffnen
+Built-in SAT>IP gateway · FFmpeg required	Gateway SAT>IP i integruar · kërkon FFmpeg	Integriertes SAT>IP-Gateway · FFmpeg erforderlich
+Download app & bridge	Shkarko aplikacionin dhe bridge-in	App & Bridge herunterladen
+Control a connected receiver.	Kontrollo një dekoder të lidhur.	Steuere einen verbundenen Receiver.
+The familiar controls, with a little more freedom.	Komandat e njohura, me më shumë liri.	Vertraute Bedienelemente mit mehr Freiheit.
+ALEN / REMOTE	ALEN / TELEKOMANDA	ALEN / FERNBEDIENUNG
+Power	Ndezja	Ein/Aus
+Touchpad	Paneli me prekje	Touchpad
+Swipe + tap	Rrëshqit dhe prek	Wischen & Tippen
+Swipe to move. Tap to select. Arrow keys and Enter work here too.	Rrëshqit për të lëvizur. Prek për të zgjedhur. Mund të përdorësh edhe shigjetat dhe Enter.	Zum Navigieren wischen, zum Auswählen tippen. Pfeiltasten und Enter funktionieren ebenfalls.
+Remote touchpad. Use arrows to move and Enter to select.	Paneli i telekomandës. Përdor shigjetat për lëvizje dhe Enter për zgjedhje.	Fernbedienungs-Touchpad. Mit Pfeiltasten navigieren und mit Enter auswählen.
+Swipe anywhere	Rrëshqit kudo	Überall wischen
+Tap for OK	Prek për OK	Für OK tippen
+Ready	Gati	Bereit
+Motion control	Kontrolli me lëvizje	Bewegungssteuerung
+Tilt your phone to navigate. Requires motion permission and a compatible phone browser.	Ano telefonin për të lundruar. Kërkon leje për sensorët dhe shfletues të përshtatshëm.	Neige dein Telefon zum Navigieren. Bewegungsfreigabe und ein kompatibler Browser sind erforderlich.
+Enable motion	Aktivizo lëvizjen	Bewegungssteuerung aktivieren
+Power-on depends on the receiver remaining reachable in standby.	Ndezja kërkon që dekoderi të mbetet i arritshëm në pritje.	Einschalten erfordert, dass der Receiver im Standby erreichbar bleibt.
+Open media on this device or send it to a compatible TV.	Hap media këtu ose dërgoje në një TV të përshtatshëm.	Öffne Medien auf diesem Gerät oder sende sie an einen kompatiblen Fernseher.
+Your media	Mediat e tua	Deine Medien
+Choose a photo, video or audio file to preview locally.	Zgjidh një fotografi, video ose audio për ta parë lokalisht.	Wähle ein Foto, Video oder eine Audiodatei für die lokale Vorschau.
+Bring your own media	Shto mediat e tua	Eigene Medien öffnen
+Photos, videos and audio supported by your browser	Fotografi, video dhe audio që mbështet shfletuesi yt	Fotos, Videos und Audio, die dein Browser unterstützt
+Choose media	Zgjidh media	Medien auswählen
+Files stay on this device until you explicitly send them.	Skedarët mbeten në këtë pajisje derisa t'i dërgosh vetë.	Dateien bleiben auf diesem Gerät, bis du sie ausdrücklich sendest.
+Play on your TV	Luaj në TV-në tënde	Auf dem Fernseher abspielen
+DLNA discovery and sending files require the local bridge and a compatible MediaRenderer.	Zbulimi DLNA dhe dërgimi kërkojnë bridge-in lokal dhe një MediaRenderer të përshtatshëm.	DLNA-Suche und Dateiversand benötigen die lokale Bridge und einen kompatiblen MediaRenderer.
+Find TVs	Gjej televizorë	Fernseher suchen
+Send selected file	Dërgo skedarin e zgjedhur	Ausgewählte Datei senden
+Uploads the selected media to the local bridge for your TV.	Ngarkon median e zgjedhur në bridge-in lokal për TV-në.	Lädt die ausgewählten Medien für deinen Fernseher auf die lokale Bridge.
+Send	Dërgo	Senden
+SAT>IP stream	Transmetimi SAT>IP	SAT>IP-Stream
+Open a browser-compatible HTTP video stream. Use Device integrations to tune SAT>IP through the local FFmpeg gateway.	Hap video HTTP për shfletuesin. Përdor Integrimet e pajisjeve për SAT>IP përmes gateway-t lokal FFmpeg.	Öffne einen browserkompatiblen HTTP-Stream. Verwende die Geräteintegration für SAT>IP über das lokale FFmpeg-Gateway.
+Stream URL	Adresa URL e transmetimit	Stream-URL
+Open stream	Hap transmetimin	Stream öffnen
+MP4/WebM use browser playback. HLS works only when this browser supports it natively.	MP4/WebM luhen në shfletues. HLS kërkon mbështetje të drejtpërdrejtë nga shfletuesi.	MP4/WebM laufen im Browser. HLS erfordert native Browser-Unterstützung.
+Connect your receiver	Lidh dekoderin tënd	Receiver verbinden
+Enter your receiver’s IP	Vendos IP-në e dekoderit	IP-Adresse des Receivers eingeben
+Use the address shown in its network settings.	Përdor adresën te cilësimet e rrjetit të pajisjes.	Verwende die Adresse aus den Netzwerkeinstellungen des Geräts.
+Local connection ready — no token needed	Lidhja lokale është gati — nuk kërkohet token	Lokale Verbindung bereit — kein Token nötig
+Start the local app once	Nis aplikacionin lokal një herë	Lokale App einmal starten
+Extract the downloaded ZIP and open	Nxirre ZIP-in e shkarkuar dhe hap	Entpacke die heruntergeladene ZIP-Datei und öffne
+on Windows. It starts the bridge, opens this app and connects automatically.	në Windows. Nis bridge-in, hap aplikacionin dhe lidhet automatikisht.	unter Windows. Die Bridge startet, öffnet diese App und verbindet sich automatisch.
+Download local app	Shkarko aplikacionin lokal	Lokale App herunterladen
+Requires Python 3.10+. If the bridge is already running:	Kërkon Python 3.10+. Nëse bridge-i është nisur:	Python 3.10+ erforderlich. Falls die Bridge bereits läuft:
+open the local app ↗	hap aplikacionin lokal ↗	lokale App öffnen ↗
+Receiver IP address	Adresa IP e dekoderit	IP-Adresse des Receivers
+Computer and receiver must be on the same local network. This is the receiver’s IP, not 127.0.0.1.	Kompjuteri dhe dekoderi duhet të jenë në të njëjtin rrjet lokal. Vendos IP-në e dekoderit, jo 127.0.0.1.	Computer und Receiver müssen im selben lokalen Netzwerk sein. Gib die Receiver-IP ein, nicht 127.0.0.1.
+Advanced options	Opsionet e avancuara	Erweiterte Optionen
+Receiver TCP port	Porta TCP e dekoderit	TCP-Port des Receivers
+The default is 20000. Change it if your receiver uses another port; it is not automatically detected.	Porta standarde është 20000. Ndryshoje nëse dekoderi përdor një tjetër; ajo nuk zbulohet automatikisht.	Standard ist 20000. Ändere den Port bei Bedarf; er wird nicht automatisch erkannt.
+Manual bridge address	Adresa manuale e bridge-it	Manuelle Bridge-Adresse
+Manual bridge token	Tokeni manual i bridge-it	Manuelles Bridge-Token
+Test TCP port	Testo portën TCP	TCP-Port testen
+Cancel	Anulo	Abbrechen
+Connect receiver	Lidh dekoderin	Receiver verbinden
+The included G‑MScreen ALi adapter checks the device handshake. Other firmware variants may be incompatible. Only verified capabilities become available.	Adapteri G‑MScreen ALi kontrollon handshake-in e pajisjes. Variante të tjera firmware-i mund të jenë të papajtueshme. Aktivizohen vetëm aftësitë e verifikuara.	Der enthaltene G‑MScreen-ALi-Adapter prüft den Geräte-Handshake. Andere Firmware-Varianten können inkompatibel sein. Nur geprüfte Fähigkeiten werden aktiviert.
+Connecting…	Duke u lidhur…	Verbindung wird hergestellt…
+Bridge connected. No receiver control connection yet.	Bridge-i u lidh. Dekoderi ende nuk është lidhur për kontroll.	Bridge verbunden. Noch keine Steuerverbindung zum Receiver.
+Discover devices	Zbulo pajisje	Geräte suchen
+Programme name	Emri i programit	Programmname
+Evening programme	Programi i mbrëmjes	Abendprogramm
+Channel	Kanali	Sender
+Start · this device’s local time	Fillimi · ora lokale e kësaj pajisjeje	Start · Ortszeit dieses Geräts
+Duration (minutes)	Kohëzgjatja (minuta)	Dauer (Minuten)
+Action	Veprimi	Aktion
+Switch channel	Ndrysho kanalin	Sender wechseln
+Record	Regjistro	Aufnehmen
+The receiver must support the selected action.	Dekoderi duhet ta mbështesë veprimin e zgjedhur.	Der Receiver muss die gewählte Aktion unterstützen.
+Save timer	Ruaj programimin	Timer speichern
+Confirm	Konfirmo	Bestätigen
+On · tilt left/right or forward/back. Press again to stop.	Aktiv · ano majtas/djathtas ose para/prapa. Shtyp sërish për ta ndalur.	Ein · nach links/rechts oder vorn/hinten neigen. Erneut drücken zum Stoppen.
+Waiting for sensor readings… press again to stop.	Në pritje të matjeve të sensorit… shtyp sërish për ta ndalur.	Warte auf Sensorwerte… erneut drücken zum Stoppen.
+LOCKED	SINJALI U KAP	SIGNAL EINGERASTET
+NO LOCK	PA SINJAL TË KAPUR	KEIN LOCK
+UNKNOWN	E PANJOHUR	UNBEKANNT
+Selected media preview	Parapamja e medias së zgjedhur	Vorschau der ausgewählten Medien
+Video player	Luajtësi i videos	Videoplayer
+Opening stream…	Duke hapur transmetimin…	Stream wird geöffnet…
+Playing	Duke luajtur	Wiedergabe läuft
+Power on receiver?	Ta ndez dekoderin?	Receiver einschalten?
+Put receiver in standby?	Ta kaloj dekoderin në pritje?	Receiver in Standby versetzen?
+The receiver must support wake-up.	Dekoderi duhet të mbështesë zgjimin.	Der Receiver muss das Aufwecken unterstützen.
+Streaming may stop and the connection may be lost.	Transmetimi mund të ndalet dhe lidhja mund të humbasë.	Der Stream kann stoppen und die Verbindung abbrechen.
+TCP port reachable	Porta TCP është e arritshme	TCP-Port erreichbar
+TCP connection unavailable	Lidhja TCP nuk është e disponueshme	TCP-Verbindung nicht verfügbar
+Rename channel	Riemërto kanalin	Sender umbenennen
+Channel name	Emri i kanalit	Sendername
+Delete channel?	Ta fshij kanalin?	Sender löschen?
+Remove this channel from the receiver?	Ta heq këtë kanal nga dekoderi?	Diesen Sender vom Receiver entfernen?
+Delete timer?	Ta fshij programimin?	Timer löschen?
+Remove this scheduled timer from the receiver?	Ta heq këtë programim nga dekoderi?	Diesen Timer vom Receiver entfernen?
+Schedule timer	Programo orarin	Timer planen
+No EPG available	EPG-ja nuk është e disponueshme	Kein EPG verfügbar
+The receiver returned no programme entries.	Dekoderi nuk ktheu asnjë program.	Der Receiver hat keine Programmeinträge geliefert.
+Toggle receiver power?	Ta ndryshoj gjendjen e ndezjes së dekoderit?	Betriebszustand des Receivers umschalten?
+The receiver may enter standby and disconnect.	Dekoderi mund të kalojë në pritje dhe të shkëputet.	Der Receiver kann in Standby wechseln und die Verbindung trennen.
+No DLNA TVs discovered. Check your network and TV.	Nuk u gjetën televizorë DLNA. Kontrollo rrjetin dhe televizorin.	Keine DLNA-Fernseher gefunden. Prüfe Netzwerk und Fernseher.
+Looking for UPnP devices…	Duke kërkuar pajisje UPnP…	UPnP-Geräte werden gesucht…
+No UPnP devices found.	Nuk u gjetën pajisje UPnP.	Keine UPnP-Geräte gefunden.
+Change receiver PIN	Ndrysho PIN-in e dekoderit	Receiver-PIN ändern
+Current PIN	PIN-i aktual	Aktuelle PIN
+New PIN (4–8 digits)	PIN-i i ri (4–8 shifra)	Neue PIN (4–8 Ziffern)
+Confirm new PIN	Konfirmo PIN-in e ri	Neue PIN bestätigen
+This can erase receiver channels and settings. Type RESET to continue.	Ky veprim mund të fshijë kanalet dhe cilësimet. Shkruaj RESET për të vazhduar.	Dies kann Sender und Einstellungen löschen. Gib RESET ein, um fortzufahren.
+Type RESET	Shkruaj RESET	RESET eingeben
+Reset receiver	Rivendos dekoderin	Receiver zurücksetzen
+G-MScreen, SAT>IP and phone call alerts.	G-MScreen, SAT>IP dhe njoftimet e telefonatave.	G-MScreen, SAT>IP und Anrufbenachrichtigungen.
+The bridge includes the documented ALi protocol variant. Enter your receiver IP in Connection settings to verify its handshake and load its channel list.	Bridge-i përfshin variantin e dokumentuar ALi. Vendos IP-në te Cilësimet e lidhjes për të verifikuar handshake-in dhe për të ngarkuar kanalet.	Die Bridge enthält die dokumentierte ALi-Protokollvariante. Gib die Receiver-IP in den Verbindungseinstellungen ein, um Handshake und Senderliste abzurufen.
+Channel streaming uses receiver tuning data and FFmpeg. Channel editing, remote keys, EPG and timers remain unavailable for this variant until their commands are verified. SR-230H4K compatibility is not confirmed.	Transmetimi përdor të dhënat e dekoderit dhe FFmpeg. Editimi, telekomanda, EPG-ja dhe programimet mungojnë derisa të verifikohen komandat. Pajtueshmëria me SR-230H4K nuk është konfirmuar.	Streaming nutzt Receiver-Abstimmdaten und FFmpeg. Senderbearbeitung, Fernbedienung, EPG und Timer bleiben bis zur Prüfung ihrer Befehle nicht verfügbar. SR-230H4K-Kompatibilität ist nicht bestätigt.
+SAT>IP tuner	Sintonizuesi SAT>IP	SAT>IP-Tuner
+Tune a real SAT>IP server over RTSP/UDP and play its stream here. The computer converts MPEG-TS to browser-compatible MP4.	Sintonizo një server real SAT>IP përmes RTSP/UDP dhe luaj transmetimin këtu. Kompjuteri konverton MPEG-TS në MP4 për shfletuesin.	Stimme einen echten SAT>IP-Server über RTSP/UDP ab. Der Computer wandelt MPEG-TS in browserkompatibles MP4 um.
+Requires FFmpeg, a reachable SAT>IP service, correct tuning parameters and incoming UDP allowed on your private network. One stream at a time.	Kërkon FFmpeg, shërbim SAT>IP të arritshëm, parametra të saktë dhe UDP hyrëse të lejuar në rrjetin privat. Një transmetim njëkohësisht.	Erfordert FFmpeg, erreichbares SAT>IP, richtige Abstimmparameter und erlaubtes eingehendes UDP im privaten Netzwerk. Ein Stream gleichzeitig.
+Tune & watch	Sintonizo dhe shiko	Abstimmen & ansehen
+Check setup	Kontrollo konfigurimin	Einrichtung prüfen
+iPhone call alerts	Njoftimet e telefonatave në iPhone	iPhone-Anrufbenachrichtigungen
+Pair the included Alen Calls iOS companion. Incoming calls show an alert in this app and pause its video player.	Çifto aplikacionin Alen Calls për iOS. Telefonatat hyrëse shfaqin njoftim këtu dhe pauzojnë videon.	Kopple die enthaltene Alen-Calls-iOS-App. Eingehende Anrufe werden hier angezeigt und pausieren das Video.
+The companion needs a signed iOS build and must be running. Delivery is not guaranteed while iOS suspends it. Receiver TV-menu notifications are not supported.	Companion-i kërkon build iOS të firmosur dhe duhet të jetë aktiv. Dërgimi nuk garantohet kur iOS e pezullon. Njoftimet në menunë TV të dekoderit nuk mbështeten.	Die Begleit-App benötigt einen signierten iOS-Build und muss laufen. Bei iOS-Suspendierung ist die Zustellung nicht garantiert. Receiver-TV-Menü-Benachrichtigungen werden nicht unterstützt.
+Pair iPhone	Çifto iPhone-in	iPhone koppeln
+Enable alerts here	Aktivizo njoftimet këtu	Benachrichtigungen hier aktivieren
+Stop alerts	Ndalo njoftimet	Benachrichtigungen stoppen
+Revoke phone	Hiq autorizimin e telefonit	Telefonberechtigung widerrufen
+Listening for phone events.	Në pritje të ngjarjeve të telefonit.	Warte auf Telefonereignisse.
+Alerts are off in this browser.	Njoftimet janë joaktive në këtë shfletues.	Benachrichtigungen sind in diesem Browser deaktiviert.
+FFmpeg found. Ready to request a real stream.	FFmpeg u gjet. Gati për të kërkuar transmetim real.	FFmpeg gefunden. Bereit für einen echten Stream.
+FFmpeg not found. Install it on PATH or put ffmpeg.exe in the extracted bin folder.	FFmpeg nuk u gjet. Instaloje në PATH ose vendos ffmpeg.exe te dosja bin e paketës.	FFmpeg nicht gefunden. Installiere es im PATH oder lege ffmpeg.exe in den entpackten bin-Ordner.
+Restart in LAN mode to allow the iPhone to connect.	Rinise në mënyrën LAN që iPhone-i të mund të lidhet.	Starte im LAN-Modus neu, damit sich das iPhone verbinden kann.
+Tune SAT>IP	Sintonizo SAT>IP	SAT>IP abstimmen
+Receiver / SAT>IP IPv4	IPv4 e dekoderit / SAT>IP	Receiver-/SAT>IP-IPv4
+RTSP port	Porta RTSP	RTSP-Port
+Frequency (MHz)	Frekuenca (MHz)	Frequenz (MHz)
+Symbol rate (kSym/s)	Shpejtësia e simboleve (kSym/s)	Symbolrate (kSym/s)
+Polarization	Polarizimi	Polarisation
+Horizontal	Horizontal	Horizontal
+Vertical	Vertikal	Vertikal
+Left circular	Rrethor majtas	Linkszirkular
+Right circular	Rrethor djathtas	Rechtszirkular
+Delivery system	Sistemi i transmetimit	Übertragungssystem
+Satellite source / DiSEqC	Burimi satelitor / DiSEqC	Satellitenquelle / DiSEqC
+Programme number (0 = first service)	Numri i programit (0 = shërbimi i parë)	Programmnummer (0 = erster Dienst)
+Use the actual transponder and programme values from your receiver. Encrypted streams may not be playable. Playback starts only after real media arrives.	Përdor vlerat reale të transponderit dhe programit. Transmetimet e enkriptuara mund të mos luhen. Luajtja nis vetëm kur mbërrin media reale.	Verwende die tatsächlichen Transponder- und Programmwerte. Verschlüsselte Streams sind möglicherweise nicht abspielbar. Wiedergabe startet erst bei echten Mediendaten.
+Start stream	Nis transmetimin	Stream starten
+Pair Alen Calls on iPhone	Çifto Alen Calls në iPhone	Alen Calls auf dem iPhone koppeln
+Open the iOS companion and enter:	Hap companion-in iOS dhe vendos:	Öffne die iOS-Begleit-App und gib Folgendes ein:
+Bridge address	Adresa e bridge-it	Bridge-Adresse
+Pairing code · valid for two minutes	Kodi i çiftimit · i vlefshëm për dy minuta	Kopplungscode · zwei Minuten gültig
+This grants access only to send call-state events. The code can be used once. Pairing expires after 12 hours or when the bridge restarts.	Kjo lejon vetëm dërgimin e gjendjes së telefonatave. Kodi përdoret një herë. Çiftimi skadon pas 12 orësh ose kur riniset bridge-i.	Dies erlaubt nur das Senden von Anrufzuständen. Der Code ist einmalig. Die Kopplung endet nach 12 Stunden oder beim Bridge-Neustart.
+iOS build instructions are in companion/ios/README.md inside the downloadable package.	Udhëzimet për build-in iOS janë te companion/ios/README.md brenda paketës.	Die iOS-Build-Anleitung steht in companion/ios/README.md im Download-Paket.
+Phone paired. Listening for call events.	Telefoni u çiftua. Në pritje të telefonatave.	Telefon gekoppelt. Warte auf Anrufereignisse.
+No paired phone. Pair Alen Calls first.	Nuk ka telefon të çiftuar. Çifto fillimisht Alen Calls.	Kein Telefon gekoppelt. Kopple zuerst Alen Calls.
+Incoming phone call · video paused. Resume playback when ready.	Telefonatë hyrëse · videoja u pauzua. Vazhdoje kur të jesh gati.	Eingehender Anruf · Video pausiert. Setze die Wiedergabe fort, wenn du bereit bist.
+Incoming phone call	Telefonatë hyrëse	Eingehender Anruf
+Call alerts enabled in this browser.	Njoftimet e telefonatave u aktivizuan në këtë shfletues.	Anrufbenachrichtigungen in diesem Browser aktiviert.
+Connect the local bridge first.	Lidh fillimisht bridge-in lokal.	Verbinde zuerst die lokale Bridge.
+Connect the bridge first.	Lidh fillimisht bridge-in.	Verbinde zuerst die Bridge.
+Connect the receiver first.	Lidh fillimisht dekoderin.	Verbinde zuerst den Receiver.
+Connect a receiver first.	Lidh fillimisht një dekoder.	Verbinde zuerst einen Receiver.
+The bridge returned invalid JSON.	Bridge-i ktheu JSON të pavlefshëm.	Die Bridge hat ungültiges JSON geliefert.
+The bridge returned an invalid response.	Bridge-i ktheu përgjigje të pavlefshme.	Die Bridge hat eine ungültige Antwort geliefert.
+Receiver request failed.	Kërkesa drejt dekoderit dështoi.	Die Receiver-Anfrage ist fehlgeschlagen.
+Connection changed. Refresh before trying again.	Lidhja ndryshoi. Rifresko përpara se të provosh sërish.	Verbindung geändert. Aktualisiere vor einem erneuten Versuch.
+Bridge unavailable or request timed out. Check the local connection.	Bridge-i është i paarritshëm ose kërkesa skadoi. Kontrollo lidhjen lokale.	Bridge nicht erreichbar oder Zeitüberschreitung. Prüfe die lokale Verbindung.
+A receiver command is still in progress. Please wait.	Një komandë po kryhet ende. Të lutem prit.	Ein Receiver-Befehl wird noch ausgeführt. Bitte warten.
+Receiver did not acknowledge this operation.	Dekoderi nuk e konfirmoi këtë veprim.	Der Receiver hat diesen Vorgang nicht bestätigt.
+Local pairing unavailable.	Çiftimi lokal nuk është i disponueshëm.	Lokale Kopplung nicht verfügbar.
+Invalid local pairing response.	Përgjigje e pavlefshme e çiftimit lokal.	Ungültige Antwort bei lokaler Kopplung.
+Check the connection fields.	Kontrollo fushat e lidhjes.	Prüfe die Verbindungsfelder.
+Start the local app using Start-Alen-STB.cmd, or set up the bridge under Advanced options.	Nis aplikacionin me Start-Alen-STB.cmd ose konfiguro bridge-in te Opsionet e avancuara.	Starte die lokale App mit Start-Alen-STB.cmd oder richte die Bridge unter Erweiterte Optionen ein.
+Open the local app to connect automatically, or enter a token under Advanced options.	Hap aplikacionin lokal për lidhje automatike ose vendos tokenin te Opsionet e avancuara.	Öffne die lokale App für die automatische Verbindung oder gib unter Erweiterte Optionen ein Token ein.
+Use a port from 1 to 65535.	Përdor një portë nga 1 deri në 65535.	Verwende einen Port von 1 bis 65535.
+Connection attempt cancelled.	Përpjekja për lidhje u anulua.	Verbindungsversuch abgebrochen.
+This address is not an Alen STB bridge.	Kjo adresë nuk është bridge Alen STB.	Diese Adresse gehört nicht zu einer Alen-STB-Bridge.
+Install a compatible adapter.	Instalo një adapter të përshtatshëm.	Installiere einen kompatiblen Adapter.
+Channel not found.	Kanali nuk u gjet.	Sender nicht gefunden.
+This channel is locked. Unlock it in Channel manager or on your receiver.	Ky kanal është bllokuar. Zhbllokoje te Menaxhimi i kanaleve ose në dekoder.	Dieser Sender ist gesperrt. Entsperre ihn in der Senderverwaltung oder am Receiver.
+Timer saved on receiver.	Programimi u ruajt në dekoder.	Timer auf dem Receiver gespeichert.
+Motion sensors are not available in this browser.	Sensorët e lëvizjes nuk janë të disponueshëm në këtë shfletues.	Bewegungssensoren sind in diesem Browser nicht verfügbar.
+Motion permission was not granted.	Leja për sensorët e lëvizjes nuk u dha.	Die Bewegungsfreigabe wurde nicht erteilt.
+Signal reading is unavailable for this receiver adapter.	Leximi i sinjalit nuk ofrohet nga ky adapter.	Dieser Receiver-Adapter unterstützt keine Signalmessung.
+Choose a supported photo, video or audio file. SVG is not supported.	Zgjidh fotografi, video ose audio të mbështetur. SVG nuk mbështetet.	Wähle ein unterstütztes Foto, Video oder Audio. SVG wird nicht unterstützt.
+This browser cannot display this file format.	Ky shfletues nuk mund ta shfaqë këtë format skedari.	Dieser Browser kann dieses Dateiformat nicht anzeigen.
+Connection changed before playback.	Lidhja ndryshoi para luajtjes.	Verbindung vor der Wiedergabe geändert.
+RTSP/RTP streams require a local gateway. Enter an HTTP(S) browser-compatible stream.	Transmetimet RTSP/RTP kërkojnë gateway lokal. Vendos një transmetim HTTP(S) për shfletuesin.	RTSP/RTP-Streams benötigen ein lokales Gateway. Gib einen browserkompatiblen HTTP(S)-Stream ein.
+Use HTTPS media or open this app locally for HTTP streams.	Përdor media HTTPS ose hap aplikacionin lokalisht për transmetime HTTP.	Verwende HTTPS-Medien oder öffne die App lokal für HTTP-Streams.
+Native HLS is unavailable in this browser. Use Safari or a gateway providing MP4/WebM.	Ky shfletues nuk mbështet HLS drejtpërdrejt. Përdor Safari ose gateway MP4/WebM.	Dieser Browser unterstützt HLS nicht nativ. Verwende Safari oder ein MP4/WebM-Gateway.
+Playback failed. Check the stream address, network access and browser codec support.	Luajtja dështoi. Kontrollo adresën, rrjetin dhe mbështetjen e kodekut në shfletues.	Wiedergabe fehlgeschlagen. Prüfe Stream-Adresse, Netzwerk und Codec-Unterstützung.
+Press play to start. If playback fails, verify the stream and codec.	Shtyp Luaj për të nisur. Nëse dështon, kontrollo transmetimin dhe kodekun.	Drücke Wiedergabe zum Starten. Prüfe bei Fehlern Stream und Codec.
+Receiver preferences saved.	Preferencat e dekoderit u ruajtën.	Receiver-Einstellungen gespeichert.
+Receiver acknowledged power command.	Dekoderi konfirmoi komandën e ndezjes/fikjes.	Receiver hat den Ein/Aus-Befehl bestätigt.
+Phone pairing revoked.	Çiftimi i telefonit u revokua.	Telefonkopplung widerrufen.
+Enter your receiver LAN IP first.	Vendos fillimisht IP-në LAN të dekoderit.	Gib zuerst die LAN-IP des Receivers ein.
+Receiver acknowledged channel rename.	Dekoderi konfirmoi riemërtimin e kanalit.	Receiver hat die Umbenennung bestätigt.
+Channel deletion acknowledged.	Fshirja e kanalit u konfirmua.	Senderlöschung bestätigt.
+Channel order acknowledged.	Renditja e kanaleve u konfirmua.	Senderreihenfolge bestätigt.
+Timer deletion acknowledged.	Fshirja e programimit u konfirmua.	Timer-Löschung bestätigt.
+Receiver EPG is unavailable.	EPG-ja e dekoderit nuk është e disponueshme.	Receiver-EPG nicht verfügbar.
+Invalid EPG response.	Përgjigje EPG e pavlefshme.	Ungültige EPG-Antwort.
+Receiver did not provide a usable SNR measurement.	Dekoderi nuk dha matje SNR të përdorshme.	Receiver hat keinen nutzbaren SNR-Messwert geliefert.
+Web audio is unavailable.	Audioja web nuk është e disponueshme.	Web-Audio ist nicht verfügbar.
+Signal reading unavailable.	Matja e sinjalit nuk është e disponueshme.	Signalmessung nicht verfügbar.
+No channel selected.	Nuk është zgjedhur kanal.	Kein Sender ausgewählt.
+Channel locked. Unlock it on the receiver first.	Kanali është bllokuar. Zhbllokoje fillimisht në dekoder.	Sender gesperrt. Entsperre ihn zuerst am Receiver.
+Full screen is unavailable.	Ekrani i plotë nuk është i disponueshëm.	Vollbild ist nicht verfügbar.
+Invalid device discovery response.	Përgjigje e pavlefshme gjatë zbulimit të pajisjeve.	Ungültige Antwort bei der Gerätesuche.
+Invalid discovery response.	Përgjigje e pavlefshme e zbulimit.	Ungültige Suchantwort.
+Choose a file first.	Zgjidh fillimisht një skedar.	Wähle zuerst eine Datei.
+Find and select a DLNA TV first.	Gjej dhe zgjidh fillimisht një TV DLNA.	Suche und wähle zuerst einen DLNA-Fernseher.
+The upload limit is 100 MB.	Kufiri i ngarkimit është 100 MB.	Das Upload-Limit beträgt 100 MB.
+TV did not acknowledge the playback command.	TV-ja nuk e konfirmoi komandën e luajtjes.	Der Fernseher hat den Wiedergabebefehl nicht bestätigt.
+TV acknowledged media playback commands.	TV-ja konfirmoi komandat e luajtjes së medias.	Der Fernseher hat die Medienwiedergabe bestätigt.
+The new PINs do not match.	PIN-et e reja nuk përputhen.	Die neuen PINs stimmen nicht überein.
+PIN change acknowledged by receiver.	Ndryshimi i PIN-it u konfirmua nga dekoderi.	PIN-Änderung vom Receiver bestätigt.
+Type RESET to confirm.	Shkruaj RESET për të konfirmuar.	Gib RESET zur Bestätigung ein.
+Receiver acknowledged reset command.	Dekoderi konfirmoi komandën e rivendosjes.	Receiver hat den Zurücksetzungsbefehl bestätigt.
+Operation failed.	Veprimi dështoi.	Vorgang fehlgeschlagen.
+A browser-compatible HTTP(S) stream URL is required.	Kërkohet një URL transmetimi HTTP(S) për shfletuesin.	Eine browserkompatible HTTP(S)-Stream-URL ist erforderlich.
+Another stream is playing. Close it first.	Një transmetim tjetër po luhet. Mbylle fillimisht.	Ein anderer Stream läuft. Schließe ihn zuerst.
+Channel loading exceeded 45 seconds.	Ngarkimi i kanaleve tejkaloi 45 sekonda.	Das Laden der Sender dauerte länger als 45 Sekunden.
+Channel lock is enabled or unverified. Unlock on the receiver first.	Bllokimi i kanalit është aktiv ose i paverifikuar. Zhbllokoje në dekoder.	Sendersperre aktiv oder ungeprüft. Zuerst am Receiver entsperren.
+Device control URL must match the discovery host.	URL-ja e kontrollit duhet të përputhet me pajisjen e zbuluar.	Die Steuerungs-URL muss zum gefundenen Gerät gehören.
+Device description is too large.	Përshkrimi i pajisjes është tepër i madh.	Gerätebeschreibung ist zu groß.
+Device endpoint must use a private LAN IPv4 address.	Pajisja duhet të përdorë adresë IPv4 private LAN.	Das Gerät muss eine private LAN-IPv4-Adresse verwenden.
+Device response is too large.	Përgjigjja e pajisjes është tepër e madhe.	Geräteantwort ist zu groß.
+Discover and select an AVTransport MediaRenderer first.	Zbulo dhe zgjidh fillimisht një AVTransport MediaRenderer.	Suche und wähle zuerst einen AVTransport-MediaRenderer.
+Duplicate channel IDs in channel order.	ID të përsëritura kanalesh në renditje.	Doppelte Sender-IDs in der Reihenfolge.
+Duplicate channel IDs.	ID të përsëritura kanalesh.	Doppelte Sender-IDs.
+Duplicate timer IDs.	ID të përsëritura programimesh.	Doppelte Timer-IDs.
+EPG start must include a timezone.	Fillimi i EPG-së duhet të përfshijë zonën kohore.	Der EPG-Start muss eine Zeitzone enthalten.
+Enter a private LAN IPv4 address.	Vendos një adresë IPv4 private LAN.	Gib eine private LAN-IPv4-Adresse ein.
+Enter the receiver private LAN IPv4 address (192.168.x.x, 10.x.x.x or 172.16–31.x.x).	Vendos IPv4 private të dekoderit (192.168.x.x, 10.x.x.x ose 172.16–31.x.x).	Gib die private Receiver-IPv4 ein (192.168.x.x, 10.x.x.x oder 172.16–31.x.x).
+Expected a JSON object.	Pritej një objekt JSON.	Ein JSON-Objekt wurde erwartet.
+Expected a command object.	Pritej një objekt komande.	Ein Befehlsobjekt wurde erwartet.
+FFmpeg is missing. Install it on PATH or place ffmpeg.exe in the bin folder.	FFmpeg mungon. Instaloje në PATH ose vendos ffmpeg.exe në dosjen bin.	FFmpeg fehlt. Installiere es im PATH oder lege ffmpeg.exe in den bin-Ordner.
+Factory reset confirmation is required.	Kërkohet konfirmim për rivendosjen në fabrikë.	Bestätigung für das Zurücksetzen erforderlich.
+G-MScreen is disconnected.	G-MScreen është shkëputur.	G-MScreen ist getrennt.
+G-MScreen receiver disconnected.	Dekoderi G-MScreen u shkëput.	G-MScreen-Receiver getrennt.
+G-MScreen request is too large.	Kërkesa G-MScreen është tepër e madhe.	G-MScreen-Anfrage ist zu groß.
+Install FFmpeg on PATH, or place ffmpeg.exe in the bin folder, to watch SAT>IP.	Për SAT>IP, instalo FFmpeg në PATH ose vendos ffmpeg.exe në dosjen bin.	Installiere für SAT>IP FFmpeg im PATH oder lege ffmpeg.exe in den bin-Ordner.
+Invalid EPG entry.	Hyrje EPG e pavlefshme.	Ungültiger EPG-Eintrag.
+Invalid EPG list.	Listë EPG e pavlefshme.	Ungültige EPG-Liste.
+Invalid MPEG-TS payload.	Të dhëna MPEG-TS të pavlefshme.	Ungültige MPEG-TS-Nutzdaten.
+Invalid RTP padding.	Mbushje RTP e pavlefshme.	Ungültiges RTP-Padding.
+Invalid adapter capabilities.	Aftësi të pavlefshme të adapterit.	Ungültige Adapter-Fähigkeiten.
+Invalid adapter response.	Përgjigje e pavlefshme e adapterit.	Ungültige Adapter-Antwort.
+Invalid adapter status.	Gjendje e pavlefshme e adapterit.	Ungültiger Adapter-Status.
+Invalid call ID.	ID telefonate e pavlefshme.	Ungültige Anruf-ID.
+Invalid call state.	Gjendje telefonate e pavlefshme.	Ungültiger Anrufzustand.
+Invalid channel flag.	Shenjues kanali i pavlefshëm.	Ungültiges Senderkennzeichen.
+Invalid channel order.	Renditje kanalesh e pavlefshme.	Ungültige Senderreihenfolge.
+Invalid channel patch.	Ndryshim kanali i pavlefshëm.	Ungültige Senderänderung.
+Invalid channel.	Kanal i pavlefshëm.	Ungültiger Sender.
+Invalid event sequence.	Rend ngjarjesh i pavlefshëm.	Ungültige Ereignisfolge.
+Invalid or oversized G-MScreen response.	Përgjigje G-MScreen e pavlefshme ose tepër e madhe.	Ungültige oder zu große G-MScreen-Antwort.
+Invalid phone event size.	Madhësi e pavlefshme e ngjarjes së telefonit.	Ungültige Größe des Telefonereignisses.
+Invalid power mode.	Mënyrë ndezjeje e pavlefshme.	Ungültiger Betriebsmodus.
+Invalid receiver PID.	PID e pavlefshme e dekoderit.	Ungültige Receiver-PID.
+Invalid receiver channel list.	Listë kanalesh e pavlefshme e dekoderit.	Ungültige Receiver-Senderliste.
+Invalid receiver lock status.	Gjendje bllokimi e pavlefshme e dekoderit.	Ungültiger Receiver-Sperrstatus.
+Invalid receiver timer list.	Listë programimesh e pavlefshme e dekoderit.	Ungültige Receiver-Timerliste.
+Invalid settings object.	Objekt cilësimesh i pavlefshëm.	Ungültiges Einstellungsobjekt.
+Invalid signal measurement.	Matje sinjali e pavlefshme.	Ungültiger Signalmesswert.
+Invalid timer type.	Lloj programimi i pavlefshëm.	Ungültiger Timertyp.
+Invalid timer.	Programim i pavlefshëm.	Ungültiger Timer.
+Load the receiver channel list first.	Ngarko fillimisht listën e kanaleve.	Lade zuerst die Receiver-Senderliste.
+No MPEG-TS packets received for 15 seconds.	Nuk u morën paketa MPEG-TS për 15 sekonda.	Seit 15 Sekunden keine MPEG-TS-Pakete empfangen.
+No UDP port pair is available for SAT>IP.	Nuk ka çift portash UDP të lirë për SAT>IP.	Kein UDP-Portpaar für SAT>IP verfügbar.
+No local port available. Close another bridge or choose --port.	Nuk ka portë lokale të lirë. Mbyll një bridge tjetër ose përdor --port.	Kein lokaler Port frei. Schließe eine andere Bridge oder nutze --port.
+Not an MPEG-TS RTP packet.	Nuk është paketë RTP MPEG-TS.	Kein MPEG-TS-RTP-Paket.
+Only local HTTP device endpoints are supported.	Mbështeten vetëm adresa lokale HTTP të pajisjeve.	Nur lokale HTTP-Geräteadressen werden unterstützt.
+PIDs must be all or a comma-separated list from 0 to 8191.	PIDs duhet të jetë all ose listë nga 0 deri në 8191, e ndarë me presje.	PIDs müssen all oder eine kommagetrennte Liste von 0 bis 8191 sein.
+PIN must contain 4–8 ASCII digits.	PIN-i duhet të ketë 4–8 shifra ASCII.	Die PIN muss 4–8 ASCII-Ziffern enthalten.
+Pairing code invalid, expired or locked. Generate a new code in Alen STB.	Kodi është i pavlefshëm, i skaduar ose i bllokuar. Gjenero kod të ri në Alen STB.	Kopplungscode ungültig, abgelaufen oder gesperrt. Erzeuge einen neuen Code in Alen STB.
+Phone pairing expired. Pair again.	Çiftimi i telefonit skadoi. Çiftoje sërish.	Telefonkopplung abgelaufen. Erneut koppeln.
+Playback link expired. Start playback again.	Lidhja e luajtjes skadoi. Nise sërish.	Wiedergabelink abgelaufen. Starte die Wiedergabe erneut.
+Port must be a whole number from 1 to 65535.	Porta duhet të jetë numër i plotë nga 1 deri në 65535.	Der Port muss eine ganze Zahl von 1 bis 65535 sein.
+RTSP body is too large.	Përmbajtja RTSP është tepër e madhe.	RTSP-Inhalt ist zu groß.
+RTSP headers are too large.	Header-at RTSP janë tepër të mëdhenj.	RTSP-Header sind zu groß.
+RTSP response sequence mismatch.	Mospërputhje e rendit të përgjigjes RTSP.	RTSP-Antwortfolge stimmt nicht überein.
+Receiver adapter returned an invalid response.	Adapteri i dekoderit ktheu përgjigje të pavlefshme.	Receiver-Adapter hat eine ungültige Antwort geliefert.
+Receiver channel-list format is unsupported.	Formati i listës së kanaleve nuk mbështetet.	Format der Receiver-Senderliste wird nicht unterstützt.
+Receiver closed the G-MScreen connection.	Dekoderi mbylli lidhjen G-MScreen.	Receiver hat die G-MScreen-Verbindung geschlossen.
+Receiver connected status must be a boolean.	Gjendja e lidhjes së dekoderit duhet të jetë booleane.	Der Verbindungsstatus muss ein boolescher Wert sein.
+Receiver did not return G-MScreen device information.	Dekoderi nuk ktheu informacion pajisjeje G-MScreen.	Receiver hat keine G-MScreen-Geräteinformationen geliefert.
+Receiver did not return a stream URL.	Dekoderi nuk ktheu URL transmetimi.	Receiver hat keine Stream-URL geliefert.
+Receiver did not return the channel transponder.	Dekoderi nuk ktheu transponderin e kanalit.	Receiver hat den Sendertransponder nicht geliefert.
+Receiver returned an incomplete channel list; this firmware may use another protocol variant.	Dekoderi ktheu listë të paplotë kanalesh; firmware-i mund të përdorë variant tjetër protokolli.	Receiver lieferte eine unvollständige Senderliste; die Firmware nutzt möglicherweise eine andere Protokollvariante.
+Receiver returned an unsupported channel entry.	Dekoderi ktheu hyrje kanali të pambështetur.	Receiver lieferte einen nicht unterstützten Sendereintrag.
+Receiver returned duplicate channel identifiers.	Dekoderi ktheu identifikues kanalesh të përsëritur.	Receiver lieferte doppelte Senderkennungen.
+Redirects are not allowed for device requests.	Ridrejtimet nuk lejohen për kërkesat e pajisjeve.	Weiterleitungen sind bei Geräteanfragen nicht erlaubt.
+SAT>IP server closed RTSP.	Serveri SAT>IP mbylli RTSP-në.	SAT>IP-Server hat RTSP geschlossen.
+SAT>IP server did not return a session and stream ID.	Serveri SAT>IP nuk ktheu seancë dhe ID transmetimi.	SAT>IP-Server hat keine Sitzung und Stream-ID geliefert.
+Signal percentage outside 0–100.	Përqindja e sinjalit është jashtë 0–100.	Signalprozent außerhalb von 0–100.
+Start the bridge in LAN mode before pairing a phone. See the setup instructions.	Nis bridge-in në mënyrën LAN para çiftimit të telefonit. Shiko udhëzimet.	Starte die Bridge vor der Telefonkopplung im LAN-Modus. Siehe Einrichtungsanleitung.
+The four-hour stream session ended. Start playback again.	Seanca katërorëshe përfundoi. Nis luajtjen sërish.	Die vierstündige Stream-Sitzung ist beendet. Starte erneut.
+This adapter streams free-to-air channels only; encrypted streams are unsupported.	Ky adapter transmeton vetëm kanale të lira; transmetimet e enkriptuara nuk mbështeten.	Dieser Adapter streamt nur frei empfangbare Sender; verschlüsselte Streams werden nicht unterstützt.
+This receiver does not use the supported G-MScreen ALi handshake.	Ky dekoder nuk përdor handshake-in e mbështetur G-MScreen ALi.	Dieser Receiver nutzt nicht den unterstützten G-MScreen-ALi-Handshake.
+Timer start must be in the future.	Fillimi i programimit duhet të jetë në të ardhmen.	Der Timer-Start muss in der Zukunft liegen.
+Timer start must include a timezone offset or Z.	Fillimi i programimit duhet të përfshijë zonën kohore ose Z.	Der Timer-Start muss einen Zeitzonenversatz oder Z enthalten.
+Too many pending streams. Wait 30 seconds.	Ka shumë transmetime në pritje. Prit 30 sekonda.	Zu viele ausstehende Streams. Warte 30 Sekunden.
+Truncated RTP extension.	Zgjerim RTP i cunguar.	Abgeschnittene RTP-Erweiterung.
+Truncated RTSP response.	Përgjigje RTSP e cunguar.	Abgeschnittene RTSP-Antwort.
+Unsupported G-MScreen device information.	Informacion pajisjeje G-MScreen i pambështetur.	Nicht unterstützte G-MScreen-Geräteinformationen.
+Unsupported G-MScreen response framing.	Strukturë përgjigjeje G-MScreen e pambështetur.	Nicht unterstütztes G-MScreen-Antwortformat.
+Unsupported media format. Active document formats such as SVG are not accepted.	Format medie i pambështetur. Formatet aktive si SVG nuk pranohen.	Nicht unterstütztes Medienformat. Aktive Formate wie SVG werden nicht akzeptiert.
+Unsupported remote key.	Buton telekomande i pambështetur.	Nicht unterstützte Fernbedienungstaste.
+Unsupported settings fields.	Fusha cilësimesh të pambështetura.	Nicht unterstützte Einstellungsfelder.
+Unsupported sleep timer.	Kohë fikjeje e pambështetur.	Nicht unterstützter Ausschalttimer.
+Unsupported transponder response.	Përgjigje transponderi e pambështetur.	Nicht unterstützte Transponderantwort.
+Upload was interrupted.	Ngarkimi u ndërpre.	Upload wurde unterbrochen.
+Data and commands come from {value}.	Të dhënat dhe komandat vijnë nga {value}.	Daten und Befehle stammen von {value}.
+The connected receiver adapter does not support {value}.	Adapteri i lidhur nuk mbështet {value}.	Der verbundene Receiver-Adapter unterstützt {value} nicht.
+A connected receiver supporting {value} is required.	Kërkohet dekoder i lidhur që mbështet {value}.	Ein verbundener Receiver mit Unterstützung für {value} ist erforderlich.
+Receiver tuned to {value}	Dekoderi kaloi te {value}	Receiver auf {value} umgeschaltet
+Acknowledged: {value}	U konfirmua: {value}	Bestätigt: {value}
+ACKNOWLEDGED · {value}	U KONFIRMUA · {value}	BESTÄTIGT · {value}
+Updated {value}	U përditësua {value}	Aktualisiert {value}
+{value} minutes	{value} minuta	{value} Minuten
+{value} MB · local preview	{value} MB · parapamje lokale	{value} MB · lokale Vorschau
+Local bridge: {value} · automatically paired	Bridge-i lokal: {value} · i çiftuar automatikisht	Lokale Bridge: {value} · automatisch gekoppelt
+Phone connection: {value}	Lidhja e telefonit: {value}	Telefonverbindung: {value}
+Bridge connected · endpoint saved: {value}	Bridge-i u lidh · adresa u ruajt: {value}	Bridge verbunden · Adresse gespeichert: {value}
+Testing {value}…	Duke testuar {value}…	Teste {value}…
+MENU	MENU	MENÜ
+BACK	KTHEHU	ZURÜCK
+EXIT	DIL	BEENDEN
+INFO	INFO	INFO
+MUTE	PA ZË	STUMM
+FAV	PREF	FAV
+UP	LART	OBEN
+DOWN	POSHTË	UNTEN
+LEFT	MAJTAS	LINKS
+RIGHT	DJATHTAS	RECHTS
+POWER	NDEZ/FIK	EIN/AUS
+RED	E KUQE	ROT
+GREEN	E GJELBËR	GRÜN
+YELLOW	E VERDHË	GELB
+BLUE	BLU	BLAU
+Automatic connection is available only in the app opened locally on this computer.	Lidhja automatike ofrohet vetëm kur aplikacioni hapet lokalisht në këtë kompjuter.	Automatische Verbindung ist nur in der lokal auf diesem Computer geöffneten App verfügbar.
+Host or origin is not allowed.	Host-i ose origjina nuk lejohet.	Host oder Ursprung nicht erlaubt.
+Invalid bridge token.	Token i pavlefshëm i bridge-it.	Ungültiges Bridge-Token.
+Origin is not allowed.	Origjina nuk lejohet.	Ursprung nicht erlaubt.
+Unknown API endpoint.	Adresë API e panjohur.	Unbekannter API-Endpunkt.
+Invalid host.	Host i pavlefshëm.	Ungültiger Host.
+Media link has expired.	Lidhja e medias ka skaduar.	Medienlink abgelaufen.
+File not found.	Skedari nuk u gjet.	Datei nicht gefunden.
+Receiver is not connected. No command was sent.	Dekoderi nuk është lidhur. Nuk u dërgua komandë.	Receiver nicht verbunden. Kein Befehl wurde gesendet.
+Receiver adapter does not support this operation.	Adapteri i dekoderit nuk e mbështet këtë veprim.	Receiver-Adapter unterstützt diesen Vorgang nicht.
+Invalid body size. Maximum media upload: 100 MB.	Madhësi e pavlefshme. Ngarkimi maksimal i medias: 100 MB.	Ungültige Größe. Maximaler Medien-Upload: 100 MB.
+Target saved for this bridge session.	Adresa u ruajt për këtë seancë të bridge-it.	Ziel für diese Bridge-Sitzung gespeichert.
+Target saved. A compatible adapter implementing configure(target) is still required.	Adresa u ruajt. Ende kërkohet adapter i përshtatshëm me configure(target).	Ziel gespeichert. Ein kompatibler Adapter mit configure(target) wird noch benötigt.
+TCP connection accepted. This does not verify G-MScreen compatibility.	Lidhja TCP u pranua. Kjo nuk verifikon pajtueshmërinë G-MScreen.	TCP-Verbindung akzeptiert. Dies bestätigt keine G-MScreen-Kompatibilität.
+No TCP connection. The port may be closed, filtered, offline or UDP-only.	Pa lidhje TCP. Porta mund të jetë e mbyllur, e filtruar, jashtë linje ose vetëm UDP.	Keine TCP-Verbindung. Port möglicherweise geschlossen, gefiltert, offline oder nur UDP.
+Temporary media storage is full. Restart the bridge to clear it.	Hapësira e përkohshme është plot. Rinise bridge-in për ta pastruar.	Temporärer Medienspeicher voll. Starte die Bridge zum Leeren neu.
+SAT>IP did not produce playable video. Check tuning, codecs and UDP firewall rules.	SAT>IP nuk prodhoi video të luajtshme. Kontrollo sintonizimin, kodekët dhe rregullat UDP.	SAT>IP lieferte kein abspielbares Video. Prüfe Abstimmung, Codecs und UDP-Firewallregeln.
+TV returned a SOAP fault.	TV-ja ktheu gabim SOAP.	Fernseher meldete einen SOAP-Fehler.
+TV did not acknowledge the requested DLNA action.	TV-ja nuk konfirmoi veprimin DLNA.	Fernseher hat die DLNA-Aktion nicht bestätigt.
+A verified receiver adapter is required for this function. No command was sent to your STB.	Kërkohet adapter i verifikuar për këtë funksion. Nuk u dërgua komandë në dekoder.	Ein geprüfter Receiver-Adapter ist erforderlich. Kein Befehl wurde gesendet.
+For DLNA, start with --bind 0.0.0.0 --lan-ip YOUR_COMPUTER_LAN_IP and allow this port on your private network.	Për DLNA, nis me --bind 0.0.0.0 --lan-ip IP_E_KOMPJUTERIT dhe lejo portën në rrjetin privat.	Für DLNA mit --bind 0.0.0.0 --lan-ip COMPUTER_LAN_IP starten und den Port im privaten Netzwerk erlauben.
+No receiver adapter installed. UPnP discovery and DLNA are available; G-MScreen control requires a verified model-specific adapter.	Nuk ka adapter dekoderi. Zbulimi UPnP dhe DLNA janë aktivë; kontrolli G-MScreen kërkon adapter të verifikuar për modelin.	Kein Receiver-Adapter installiert. UPnP-Suche und DLNA sind verfügbar; G-MScreen benötigt einen geprüften modellspezifischen Adapter.
+Phone connection:	Lidhja e telefonit:	Telefonverbindung:
+WEB CLIENT / 0.8	KLIENT WEB / 0.8	WEB-CLIENT / 0.8
+Receiver returned duplicate channel IDs.	Dekoderi ktheu ID kanalesh të përsëritura.	Receiver lieferte doppelte Sender-IDs.
+Invalid bridge status. Update the local bridge.	Gjendje e pavlefshme e bridge-it. Përditëso bridge-in lokal.	Ungültiger Bridge-Status. Aktualisiere die lokale Bridge.
+Invalid receiver timers.	Programime të pavlefshme të dekoderit.	Ungültige Receiver-Timer.
+Invalid receiver timer.	Programim i pavlefshëm i dekoderit.	Ungültiger Receiver-Timer.
+Duplicate timer ID.	ID programimi e përsëritur.	Doppelte Timer-ID.
+Invalid receiver timer fields.	Fusha të pavlefshme të programimit.	Ungültige Receiver-Timerfelder.
+Invalid receiver settings.	Cilësime të pavlefshme të dekoderit.	Ungültige Receiver-Einstellungen.
+Unsupported sleep timer value.	Vlerë e pambështetur e fikjes së programuar.	Nicht unterstützter Ausschalttimerwert.
+Invalid timer start time.	Orë e pavlefshme e fillimit të programimit.	Ungültige Timer-Startzeit.
+Choose a valid start time in the future.	Zgjidh një orë të vlefshme fillimi në të ardhmen.	Wähle eine gültige Startzeit in der Zukunft.
+Duration must be 1–1440 whole minutes.	Kohëzgjatja duhet të jetë 1–1440 minuta të plota.	Die Dauer muss 1–1440 ganze Minuten betragen.
+Invalid timer action.	Veprim programimi i pavlefshëm.	Ungültige Timer-Aktion.
+This browser cannot generate a secure timer identifier.	Ky shfletues nuk mund të gjenerojë identifikues të sigurt programimi.	Dieser Browser kann keine sichere Timer-Kennung erzeugen.
+Use an HTTP(S) stream URL without embedded credentials.	Përdor URL HTTP(S) pa kredenciale të përfshira.	Verwende eine HTTP(S)-Stream-URL ohne eingebettete Zugangsdaten.
+Connection changed; stale response ignored.	Lidhja ndryshoi; përgjigjja e vjetër u shpërfill.	Verbindung geändert; veraltete Antwort ignoriert.
+Invalid {value}.	Vlerë e pavlefshme: {value}.	Ungültiger Wert: {value}.
+Invalid receiver setting: {value}	Cilësim dekoderi i pavlefshëm: {value}	Ungültige Receiver-Einstellung: {value}
+SAT>IP rejected {value}	SAT>IP refuzoi {value}	SAT>IP hat abgelehnt: {value}
+Invalid SAT>IP {value}	Vlerë SAT>IP e pavlefshme: {value}	Ungültiger SAT>IP-Wert: {value}
+Local bridge	Bridge-i lokal	Lokale Bridge
+Status	Gjendja	Status
+How it works	Si funksionon	So funktioniert es
+8-digit pairing code	Kodi i çiftimit me 8 shifra	8-stelliger Kopplungscode
+Disconnect	Shkëput	Trennen
+Enter the computer's LAN address and the pairing code shown in Alen STB.	Vendos adresën LAN të kompjuterit dhe kodin që shfaqet në Alen STB.	Gib die LAN-Adresse des Computers und den in Alen STB angezeigten Kopplungscode ein.
+Use http://COMPUTER-LAN-IP:8787	Përdor http://IP-LAN-E-KOMPJUTERIT:8787	Verwende http://COMPUTER-LAN-IP:8787
+Use the computer's private LAN IPv4 address.	Përdor adresën IPv4 private LAN të kompjuterit.	Verwende die private LAN-IPv4-Adresse des Computers.
+The bridge could not accept the request.	Bridge-i nuk e pranoi kërkesën.	Die Bridge konnte die Anfrage nicht annehmen.
+Invalid pairing response.	Përgjigje çiftimi e pavlefshme.	Ungültige Kopplungsantwort.
+Paired for this session. Keep Alen Calls open. iOS does not guarantee call monitoring while suspended.	U çiftua për këtë seancë. Mbaje Alen Calls hapur. iOS nuk garanton monitorim kur aplikacioni pezullohet.	Für diese Sitzung gekoppelt. Lass Alen Calls geöffnet. iOS garantiert keine Anrufüberwachung während der Suspendierung.
+Disconnected. Use Revoke phone in Alen STB to invalidate the phone token immediately.	U shkëput. Përdor Hiq autorizimin e telefonit në Alen STB për të çaktivizuar menjëherë tokenin.	Getrennt. Verwende Telefonberechtigung widerrufen in Alen STB, um das Token sofort ungültig zu machen.
+Event was not acknowledged.	Ngjarja nuk u konfirmua.	Ereignis wurde nicht bestätigt.
+Delivered: 	U dërgua: 	Zugestellt: 
+Call notification failed: 	Njoftimi i telefonatës dështoi: 	Anrufbenachrichtigung fehlgeschlagen: 
+ringing	po bie zilja	klingelt
+connected	u lidh	verbunden
+ended	përfundoi	beendet
+Only call state is sent over your local Wi-Fi. No phone numbers, contacts or audio are read. Open Alen STB on your computer and enable call alerts. The bridge must run in LAN mode.	Përmes Wi-Fi lokal dërgohet vetëm gjendja e telefonatës. Nuk lexohen numra, kontakte ose audio. Hap Alen STB në kompjuter dhe aktivizo njoftimet. Bridge-i duhet të jetë në mënyrën LAN.	Nur der Anrufzustand wird über dein lokales WLAN gesendet. Telefonnummern, Kontakte und Audio werden nicht gelesen. Öffne Alen STB am Computer und aktiviere Anrufhinweise. Die Bridge muss im LAN-Modus laufen.
+This companion must be running. A closed or suspended iOS app cannot guarantee delivery. This does not display an alert in the receiver's own TV menu.	Companion-i duhet të jetë aktiv. Kur aplikacioni mbyllet ose pezullohet, dërgimi nuk garantohet. Njoftimi nuk shfaqet në menunë TV të dekoderit.	Die Begleit-App muss laufen. Eine geschlossene oder suspendierte iOS-App kann keine Zustellung garantieren. Im TV-Menü des Receivers wird kein Hinweis angezeigt.
+Sends incoming call state to your Alen STB bridge on your local network.	Dërgon gjendjen e telefonatave hyrëse te bridge-i Alen STB në rrjetin lokal.	Sendet den Zustand eingehender Anrufe an deine Alen-STB-Bridge im lokalen Netzwerk.
+Invalid {field}: expected {range}.	Vlerë e pavlefshme për {field}: pritet {range}.	Ungültiger Wert für {field}: erwartet {range}.
+{field} must be a whole number from {low} to {high}.	{field} duhet të jetë numër i plotë nga {low} deri në {high}.	{field} muss eine ganze Zahl von {low} bis {high} sein.
+{field} must be a boolean.	{field} duhet të jetë vlerë booleane.	{field} muss ein boolescher Wert sein.
+frequency in MHz	frekuencën në MHz	Frequenz in MHz
+symbol rate	shpejtësinë e simboleve	Symbolrate
+source	burimin	Quelle
+programme number	numrin e programit	Programmnummer
+1 minutes	1 minutë	1 Minute
+Please fill out this field.	Të lutem plotëso këtë fushë.	Bitte fülle dieses Feld aus.
+Please enter a valid address.	Të lutem vendos një adresë të vlefshme.	Bitte gib eine gültige Adresse ein.
+Please use the required format.	Të lutem përdor formatin e kërkuar.	Bitte verwende das erforderliche Format.
+Please enter a value within the allowed range.	Vendos një vlerë brenda kufijve të lejuar.	Bitte gib einen Wert im erlaubten Bereich ein.
+Please enter a valid number.	Të lutem vendos një numër të vlefshëm.	Bitte gib eine gültige Zahl ein.
+Please check this value.	Të lutem kontrollo këtë vlerë.	Bitte prüfe diesen Wert.
