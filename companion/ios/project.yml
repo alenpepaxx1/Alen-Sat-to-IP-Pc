@@ -1,0 +1,26 @@
+# Copyright © 2026 Alen Pepa.
+name: AlenCalls
+options:
+  bundleIdPrefix: com.alenpepa
+  deploymentTarget:
+    iOS: '16.0'
+targets:
+  AlenCalls:
+    type: application
+    platform: iOS
+    sources: [AlenCalls]
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.alenpepa.AlenCalls
+        SWIFT_VERSION: '5.0'
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_NSLocalNetworkUsageDescription: Sends call state to your Alen STB bridge on your local network.
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+    info:
+      path: AlenCalls/Info.plist
+      properties:
+        CFBundleDisplayName: Alen Calls
+        NSLocalNetworkUsageDescription: Sends incoming call state to your Alen STB bridge on your local network.
+        NSAppTransportSecurity:
+          NSAllowsArbitraryLoads: true
+        UILaunchScreen: {}
