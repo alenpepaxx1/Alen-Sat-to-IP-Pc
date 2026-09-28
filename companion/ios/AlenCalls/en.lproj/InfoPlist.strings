@@ -1,0 +1,2 @@
+/* Copyright © 2026 Alen Pepa. */
+"NSLocalNetworkUsageDescription" = "Sends incoming call state to your Alen STB bridge on your local network.";
